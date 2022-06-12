@@ -1,0 +1,15 @@
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\bin\Debug\net6.0\Dio.Bank.exe
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\bin\Debug\net6.0\Dio.Bank.deps.json
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\bin\Debug\net6.0\Dio.Bank.runtimeconfig.json
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\bin\Debug\net6.0\Dio.Bank.dll
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\bin\Debug\net6.0\Dio.Bank.pdb
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\Dio.Bank.csproj.AssemblyReference.cache
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\Dio.Bank.AssemblyInfo.cs
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\Dio.Bank.dll
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\refint\Dio.Bank.dll
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\Dio.Bank.pdb
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\Dio.Bank.genruntimeconfig.cache
+C:\Users\vivia\Documents\projects\DIO\Dio.Bank\obj\Debug\net6.0\ref\Dio.Bank.dll
